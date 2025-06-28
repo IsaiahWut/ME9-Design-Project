@@ -94,11 +94,11 @@ The final carousel design meets the core project requirements and effectively ap
 ---
 
 ## File Structure
-(```)
+```
 ME9-Design-Project/
 ├── Parts/ # Custom SolidWorks part files (.SLDPRT)
 ├── Assembly/ # Assembly files (.SLDASM)
 ├── Drawings/ # Technical drawings (.SLDDRW)
 ├── Exports/ # STEP, PDF, and render images
 └── README.md # This file
-(```)
+```
